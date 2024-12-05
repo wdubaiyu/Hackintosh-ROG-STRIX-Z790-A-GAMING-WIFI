@@ -8,9 +8,11 @@ MacOs Sonoma（14.7.1）
 
 * 网卡: 板载inte有线和无线
 
-* 睡眠: 正常,换新正常
+* 睡眠: 正常,唤醒正常
 
 * USB: 已定制，后置最下面的typc不可以，usb2.0只有用靠近HDMI的那个，灯控不能用，内置2.0不可用
 
 ## 使用注意事项
-* 请安装前在Windows三码注入
+* 请安装前在Windows下注入三码 可以参考...
+  https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo
+  https://github.com/corpnewt/GenSMBIOS
